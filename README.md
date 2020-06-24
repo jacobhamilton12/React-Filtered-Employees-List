@@ -1,5 +1,5 @@
 # React-Filtered-Employees-List
-##HackerRank Challenge
+## HackerRank Challenge
 In this task, the goal is to build a very simple list of employees, showing their names only, that can be filtered using a text input.
 
  
